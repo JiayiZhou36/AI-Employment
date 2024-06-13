@@ -1,0 +1,25 @@
+Industry,Percentage,Mapping
+Office and administrative support,46,Economic activity (ISIC-Rev.4): N. Administrative and support service activities
+Legal,44,"Economic activity (ISIC-Rev.4): M. Professional, scientific and technical activities"
+Architecture and engineering,37,"Economic activity (ISIC-Rev.4): M. Professional, scientific and technical activities"
+"Life, physical, and social science",36,"Economic activity (ISIC-Rev.4): M. Professional, scientific and technical activities"
+Business and financial operations,35,Economic activity (ISIC-Rev.4): K. Financial and insurance activities
+Community and social service,33,Economic activity (ISIC-Rev.4): Q. Human health and social work activities
+Management,32,Economic activity (ISIC-Rev.4): N. Administrative and support service activities
+Sales and related,31,Economic activity (ISIC-Rev.4): G. Wholesale and retail trade; repair of motor vehicles and motorcycles
+Computer and mathematics,29,"Economic activity (ISIC-Rev.4): M. Professional, scientific and technical activities"
+"Farming, fishing, and forestry",28,Economic activity (ISIC-Rev.4): A. Agriculture; forestry and fishing
+Healthcare practitioners and technical,28,Economic activity (ISIC-Rev.4): Q. Human health and social work activities
+Protective service,28,Economic activity (ISIC-Rev.4): O. Public administration and defence; compulsory social security
+Educational instruction and library,27,Economic activity (ISIC-Rev.4): P. Education
+"Arts, design, entertainment, sports, and media",26,"Economic activity (ISIC-Rev.4): R. Arts, entertainment and recreation"
+Healthcare support,26,Economic activity (ISIC-Rev.4): Q. Human health and social work activities
+All industries,25,Economic activity (ISIC-Rev.4): Total
+Personal care and service,19,Economic activity (ISIC-Rev.4): S. Other service activities
+Food preperation and serving related,12,Economic activity (ISIC-Rev.4): I. Accommodation and food service activities
+Transportation and material moving,11,Economic activity (ISIC-Rev.4): H. Transportation and storage
+Production,9,Economic activity (ISIC-Rev.4): C. Manufacturing
+Construction and extraction,6,Economic activity (ISIC-Rev.4): F. Construction
+"Installation, maintenance, and repair",4,Economic activity (ISIC-Rev.4): S. Other service activities
+Building and grounds cleaning and maintenance,1,Economic activity (ISIC-Rev.4): S. Other service activities
+Construction and extraction,6,Economic activity (ISIC-Rev.4): B. Mining and quarrying
