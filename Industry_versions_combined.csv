@@ -1,0 +1,54 @@
+Mapping_x,Standardized,Mapping_y,average
+Economic activity (ISIC-Rev.3.1): Total,Total,Economic activity (ISIC-Rev.4): Total,25
+"Economic activity (ISIC-Rev.3.1): A. Agriculture, hunting and forestry","Agriculture, hunting and forestry",Economic activity (ISIC-Rev.4): A. Agriculture; forestry and fishing,28
+Economic activity (ISIC-Rev.3.1): D. Manufacturing,Manufacturing,Economic activity (ISIC-Rev.4): C. Manufacturing,9
+"Economic activity (ISIC-Rev.3.1): E. Electricity, gas and water supply","Electricity, gas and water supply",,
+Economic activity (ISIC-Rev.3.1): F. Construction,Construction,Economic activity (ISIC-Rev.4): F. Construction,6
+"Economic activity (ISIC-Rev.3.1): G. Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods","Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods",Economic activity (ISIC-Rev.4): G. Wholesale and retail trade; repair of motor vehicles and motorcycles,31
+Economic activity (ISIC-Rev.3.1): H. Hotels and restaurants,Hotels and restaurants,Economic activity (ISIC-Rev.4): I. Accommodation and food service activities,12
+"Economic activity (ISIC-Rev.3.1): I. Transport, storage and communications","Transport, storage and communications",Economic activity (ISIC-Rev.4): H. Transportation and storage,11
+Economic activity (ISIC-Rev.3.1): J. Financial intermediation,Financial intermediation,Economic activity (ISIC-Rev.4): K. Financial and insurance activities,35
+"Economic activity (ISIC-Rev.3.1): K. Real estate, renting and business activities","Real estate, renting and business activities",,
+Economic activity (ISIC-Rev.3.1): L. Public administration and defence; compulsory social security,Public administration and defence; compulsory social security,Economic activity (ISIC-Rev.4): O. Public administration and defence; compulsory social security,28
+Economic activity (ISIC-Rev.3.1): M. Education,Education,Economic activity (ISIC-Rev.4): P. Education,27
+Economic activity (ISIC-Rev.3.1): N. Health and social work,Health and social work,Economic activity (ISIC-Rev.4): Q. Human health and social work activities,29
+"Economic activity (ISIC-Rev.3.1): O. Other community, social and personal service activities","Other community, social and personal service activities",Economic activity (ISIC-Rev.4): Q. Human health and social work activities,29
+Economic activity (ISIC-Rev.3.1): P. Activities of private households as employers and undifferentiated production activities of private households,Activities of private households as employers and undifferentiated production activities of private households,,
+Economic activity (ISIC-Rev.3.1): X. Not elsewhere classified,Not elsewhere classified,,
+Economic activity (ISIC-Rev.3.1): B. Fishing,Fishing,Economic activity (ISIC-Rev.4): A. Agriculture; forestry and fishing,28
+Economic activity (ISIC-Rev.3.1): C. Mining and quarrying,Mining and quarrying,Economic activity (ISIC-Rev.4): B. Mining and quarrying,6
+Economic activity (ISIC-Rev.3.1): Q. Extraterritorial organizations and bodies,Extraterritorial organizations and bodies,,
+Economic activity (ISIC-Rev.4): Total,Total,Economic activity (ISIC-Rev.4): Total,25
+Economic activity (ISIC-Rev.4): A. Agriculture; forestry and fishing,Agriculture; forestry and fishing,Economic activity (ISIC-Rev.4): A. Agriculture; forestry and fishing,28
+Economic activity (ISIC-Rev.4): B. Mining and quarrying,Mining and quarrying,Economic activity (ISIC-Rev.4): B. Mining and quarrying,6
+Economic activity (ISIC-Rev.4): C. Manufacturing,Manufacturing,Economic activity (ISIC-Rev.4): C. Manufacturing,9
+"Economic activity (ISIC-Rev.4): E. Water supply; sewerage, waste management and remediation activities","Water supply; sewerage, waste management and remediation activities",,
+Economic activity (ISIC-Rev.4): F. Construction,Construction,Economic activity (ISIC-Rev.4): F. Construction,6
+Economic activity (ISIC-Rev.4): G. Wholesale and retail trade; repair of motor vehicles and motorcycles,Wholesale and retail trade; repair of motor vehicles and motorcycles,Economic activity (ISIC-Rev.4): G. Wholesale and retail trade; repair of motor vehicles and motorcycles,31
+Economic activity (ISIC-Rev.4): H. Transportation and storage,Transportation and storage,Economic activity (ISIC-Rev.4): H. Transportation and storage,11
+Economic activity (ISIC-Rev.4): I. Accommodation and food service activities,Accommodation and food service activities,Economic activity (ISIC-Rev.4): I. Accommodation and food service activities,12
+Economic activity (ISIC-Rev.4): J. Information and communication,Information and communication,"Economic activity (ISIC-Rev.4): R. Arts, entertainment and recreation",26
+Economic activity (ISIC-Rev.4): K. Financial and insurance activities,Financial and insurance activities,Economic activity (ISIC-Rev.4): K. Financial and insurance activities,35
+Economic activity (ISIC-Rev.4): L. Real estate activities,Real estate activities,,
+Economic activity (ISIC-Rev.4): N. Administrative and support service activities,Administrative and support service activities,Economic activity (ISIC-Rev.4): N. Administrative and support service activities,39
+Economic activity (ISIC-Rev.4): O. Public administration and defence; compulsory social security,Public administration and defence; compulsory social security,Economic activity (ISIC-Rev.4): O. Public administration and defence; compulsory social security,28
+Economic activity (ISIC-Rev.4): P. Education,Education,Economic activity (ISIC-Rev.4): P. Education,27
+Economic activity (ISIC-Rev.4): Q. Human health and social work activities,Human health and social work activities,Economic activity (ISIC-Rev.4): Q. Human health and social work activities,29
+"Economic activity (ISIC-Rev.4): R. Arts, entertainment and recreation","Arts, entertainment and recreation","Economic activity (ISIC-Rev.4): R. Arts, entertainment and recreation",26
+Economic activity (ISIC-Rev.4): S. Other service activities,Other service activities,Economic activity (ISIC-Rev.4): S. Other service activities,8
+Economic activity (ISIC-Rev.4): U. Activities of extraterritorial organizations and bodies,Activities of extraterritorial organizations and bodies,,
+Economic activity (ISIC-Rev.4): X. Not elsewhere classified,Not elsewhere classified,,
+"Economic activity (ISIC-Rev.4): D. Electricity; gas, steam and air conditioning supply","Electricity; gas, steam and air conditioning supply",,
+Economic activity (ISIC-Rev.4): T. Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,,
+"Economic activity (ISIC-Rev.4): M. Professional, scientific and technical activities","Professional, scientific and technical activities","Economic activity (ISIC-Rev.4): M. Professional, scientific and technical activities",36.5
+Economic activity (ISIC-Rev.2): Total,Total,Economic activity (ISIC-Rev.4): Total,25
+"Economic activity (ISIC-Rev.2): 1. Agriculture, Hunting, Forestry and Fishing","Agriculture, Hunting, Forestry and Fishing",Economic activity (ISIC-Rev.4): A. Agriculture; forestry and fishing,28
+Economic activity (ISIC-Rev.2): 2. Mining and Quarrying,Mining and Quarrying,Economic activity (ISIC-Rev.4): B. Mining and quarrying,6
+Economic activity (ISIC-Rev.2): 3. Manufacturing,Manufacturing,Economic activity (ISIC-Rev.4): C. Manufacturing,9
+"Economic activity (ISIC-Rev.2): 4. Electricity, Gas and Water","Electricity, Gas and Water",,
+Economic activity (ISIC-Rev.2): 5. Construction,Construction,Economic activity (ISIC-Rev.4): F. Construction,6
+Economic activity (ISIC-Rev.2): 6. Wholesale and Retail Trade and Restaurants and Hotels,Wholesale and Retail Trade and Restaurants and Hotels,Economic activity (ISIC-Rev.4): G. Wholesale and retail trade; repair of motor vehicles and motorcycles,31
+"Economic activity (ISIC-Rev.2): 7. Transport, Storage and Communication","Transport, Storage and Communication",Economic activity (ISIC-Rev.4): H. Transportation and storage,11
+"Economic activity (ISIC-Rev.2): 8. Financing, Insurance, Real Estate and Business Services","Financing, Insurance, Real Estate and Business Services",Economic activity (ISIC-Rev.4): K. Financial and insurance activities,35
+"Economic activity (ISIC-Rev.2): 9. Community, Social and Personal Services","Community, Social and Personal Services",Economic activity (ISIC-Rev.4): Q. Human health and social work activities,29
+Economic activity (ISIC-Rev.2): 0. Activities not Adequately Defined,Activities not Adequately Defined,,
